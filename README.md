@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SMS Aero is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://smsaero.ru/
+SMS Aero provides a mass SMS messaging service with guaranteed delivery, offering API access for sending bulk SMS, managing contacts, and tracking delivery reports. The platform supports multiple languages, integrates with popular frameworks, and includes features such as scheduling, personalization, and analytics to help businesses communicate effectively with their customers worldwide.
+
+**Areas:** Company · SMS · Messaging · Bulk · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://smsaero.ru/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/smsaero/](https://apis.io/providers/smsaero/).
